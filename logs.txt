@@ -1,0 +1,6 @@
+commit d132aad187f9d712e193f4c9877edcbe43187aac (HEAD -> logs, origin/master, master)
+Author: unknown <Nikola.Ambarov@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:22:55 2019 +0200
+
+    Initial commit
+
